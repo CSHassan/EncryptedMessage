@@ -1,3 +1,4 @@
+# creates a random encryped message in puthon by using the alphabet and changing the positions around.
 
 alphabet = 'abcdefghijklmnopqrstuvwxyz'
 key = 3
